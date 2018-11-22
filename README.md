@@ -1,3 +1,3 @@
 # Pinterest
 
-This a web aplication similar to pinterst
+This an web application similar to pinterst
